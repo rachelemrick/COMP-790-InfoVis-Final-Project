@@ -22,9 +22,11 @@ iam8bit for many games including Ori, Disco Elysium, and Stray
 Studio MDHR for Cuphead
 Psyonix Studios for Rocket League
 3909 LLC for Papers, Please
+Facepunch Studios for Garry's Mod
 
 We added Team 17, Team Meat, Campo Santo, Young Horses, Polytron, Robert Topala, 
 Night School Studio, Facepalm Games, Red Hook Studios, Studio Pixel, 
 Endnight Games Ltd, Starbreeze Studios, Jumpship, Pillow Castle, Nicalis,
 Sloclap, Bedtime Digital Games, Thomas Happ Games, WayForward Technologies,
-Amanita Design, as indie publishers because they are all self-proclaimed and pretty clear indie groups.
+Amanita Design, Ghost Town Games, Dennaton Games, Dodge Roll, Devolver Digital,
+as indie publishers because they are all self-proclaimed and pretty clear indie groups.
