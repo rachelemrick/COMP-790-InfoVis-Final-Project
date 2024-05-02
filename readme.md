@@ -1,6 +1,10 @@
-#  COMP 790: Information Visualization Final Project
+# COMP 790: Information Visualization Final Project
 
 ## By Lili Enseling, Rachel Emrick, Raye Oji, Sokhna Fall
+
+This Jupyter Notebook presents an interactive exploration of the dynamics between Indie and AAA game development over time. Utilizing Altair, a powerful visualization library, we delve into the trends, growth patterns, and disparities between these two sectors of the gaming industry.
+
+The `Databases` folder stores all the data we compiled and used for our visualizations.
 
 Sources for data:
 
